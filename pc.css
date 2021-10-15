@@ -423,7 +423,7 @@ span.a-badge i.fa.fa-info-circle {
 img#board-info-profile-img:hover {
     z-index: 1;
     transform: scale(3);
-    transition: transform 0.2s;
+    transition: transform 0.3s;
 }
 
 #board-info h1 {
