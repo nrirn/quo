@@ -443,6 +443,25 @@ font-weight: bold;
 }
 
 
+#article-list>.article-list-row>.item>.list-title>.list-writer {
+    padding: 0 16px;
+    border-left: none;
+}
+
+#article-list>.article-list-row>.item>.list-title>.list-writer>span {
+	width: fit-content !important; 
+	height: 18px;
+}
+
+#article-list>.article-list-row>.item>.list-title>.list-writer.logged>span {
+	color: #606060;
+}
+
+
+#article-list>.article-list-row>.item img {
+    margin-top: -1px;
+}
+
 
 #movetotop img {
     display: none
