@@ -420,6 +420,12 @@ span.a-badge i.fa.fa-info-circle {
     border: 3px solid #72984b;
 }
 
+img#board-info-profile-img:hover {
+    z-index: 1;
+    transform: scale(4);
+    transition: transform 0.5s;
+}
+
 #board-info h1 {
     font-size: 24px;
 font-weight: bold;
