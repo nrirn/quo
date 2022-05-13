@@ -478,6 +478,19 @@ font-weight: bold;
 
 
 
+body::before {
+    content: '';
+    position: fixed;
+    bottom: 0px;
+    left: 30px;
+    width: 441px;
+    height: 441px;
+    background-color: rgba(255,255,255,0);
+    background-image: url( https://github.com/nrirn/quo/blob/master/quowc.gif?raw=true );
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;;
+}
 
 
 
