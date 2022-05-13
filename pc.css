@@ -491,11 +491,9 @@ body::before {
     content: '';
     position: fixed;
     bottom: 0px;
-    left: 5px;
+    left: 0px;
     width: 441px;
     height: 441px;
-    border-radius: 0px;
-    border: solid 3px #BCA9F5;
     background-color: rgba(255,255,255,0);
     background-image: url(https://github.com/nrirn/quo/blob/master/quowc.gif?raw=true);
     background-repeat: no-repeat;
